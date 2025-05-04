@@ -70,7 +70,7 @@ function pastryItems(el) {
       price: "Rs. 160",
     },
     {
-      img: "images/Chicken-pizza.jpg",
+      img: "images/Chicken-Pizza.jpg",
       title: "Chicken Pizza",
       desc: "Soft crust with meat and cheese topping",
       price: "Rs. 500",
