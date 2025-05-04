@@ -18,6 +18,14 @@ Brew Bliss is a modern and responsive website for a fictional coffee shop. Desig
 - JavaScript 
 - Git & GitHub for version control and deployment
 
+## 📱 Responsive Design
+
+Built with mobile-first principles. Compatible across various devices and screen sizes.
+
+## 🔗 Live Demo
+
+[Click here to view the website](https://asnaassalam.github.io/brew-bliss-website/)    
+
 
 
 
